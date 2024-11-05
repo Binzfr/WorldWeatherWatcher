@@ -49,20 +49,20 @@ Notes
 #main.ino
 
 Téléchargez l'arduino IDE, installez les bibliothèques suivantes : 
-
-  Adafruit_BME280_Library
-
-  Adafruit_BusIO
-
-  Adafruit_DMA_neopixel_library
-
-  Adafruit_NeoPixel
-
-  Adafruit_Unified_Sensor
-
-  RTClib
-
-  SD
-
-  VEGA_ChainableLED
+    
+      Adafruit_BME280_Library
+    
+      Adafruit_BusIO
+    
+      Adafruit_DMA_neopixel_library
+    
+      Adafruit_NeoPixel
+    
+      Adafruit_Unified_Sensor
+    
+      RTClib
+    
+      SD
+    
+      VEGA_ChainableLED
 
