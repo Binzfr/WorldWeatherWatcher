@@ -46,7 +46,7 @@ Les messages série seront affichés dans la session screen.
 
 
 
-#main.ino
+# main.ino
 
 Téléchargez l'arduino IDE, installez les bibliothèques suivantes : 
     
